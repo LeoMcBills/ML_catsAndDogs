@@ -1,1 +1,2 @@
-# ML_malariaDiagnosis
+# ML_catsAndDogs
+Distinguish between cats and dogs
